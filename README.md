@@ -3,7 +3,8 @@
 
 🔭 I’m currently working on a project "O'Vacances, plan your vacation with friends" as a React Developer, teaming up with Symfony Devs for back-end.\
 **Stack**: React, Redux, Symfony RESTful API, deployment on AWS EC2.\
-[👉 Live presentation here (🇫🇷)](https://youtu.be/n_Jo3Pcf87c?t=2609)
+[👉 Live presentation here (🇫🇷)](https://youtu.be/n_Jo3Pcf87c?t=2609)\
+[🤘 Repo](https://github.com/quentinbrohan/o-vacances)
 
 🌱 I’m currently learning GraphQL
 
