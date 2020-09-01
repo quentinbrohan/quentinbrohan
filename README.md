@@ -5,7 +5,7 @@
 
 📌 Last project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as a React Developer, teaming up with Symfony Devs for back-end.\
 **Stack**: React, Redux, Symfony RESTful API, deployment on AWS EC2.\
-[🤘 Case Study](https://quentinbrohan.fr/project/o-vacances/)\
+[🤘 Case Study here (🇫🇷)](https://quentinbrohan.fr/project/o-vacances/)
 
 🌱 I’m currently learning GraphQL and recently picked up TypeScript, which I am using in my current project.
 
