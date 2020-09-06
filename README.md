@@ -1,5 +1,5 @@
 ### Hell-O, I'm Quentin
-#### a passionnate full-stack React developer from France with a graphic designer background
+#### a passionnate front-end React developer from France with a graphic designer background
 
 🔭 I’m currently working on Dylt, an app to discover new music shared between users.
 
