@@ -25,7 +25,7 @@ Skills:
 
 
 Social:
-[<img src='https://quentinbrohan.fr/favicon.svg' alt='website' height='22'>](https://quentinbrohan.fr/)  
+[<img src='https://quentinbrohan.fr/favicon.svg' alt='website' height='22'>](https://quentinbrohan.fr/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/https://github.com/quentinbrohan)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/quentinbrohan//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/quentinbrohan/)
 
