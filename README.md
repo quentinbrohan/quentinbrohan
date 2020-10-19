@@ -9,12 +9,23 @@
 
 🌱 I’m currently learning GraphQL and recently picked up TypeScript, which I am using in my current project.
 
-👯 I’m looking to collaborate with an innovative company
+[//]: # (👯 I’m looking to collaborate with an innovative company)
 
-💻 I'm available for work in Strasbourg, France.
+[//]: # (💻 I'm available for work in Strasbourg, France.)
 
 📫 How to reach me: brohan.quentin@gmail.com 
 
-Skills: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='github' height='44'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='github' height='44'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='github' height='42'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='github' height='44'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='github' height='42'>
+Skills:
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='github' height='44'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='github' height='44'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='github' height='42'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='github' height='42'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='github' height='42'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='github' height='44'>
 
-Social: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/https://github.com/quentinbrohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/quentinbrohan//)  [<img src='https://quentinbrohan.fr/favicon.svg' alt='website' height='22'>](https://quentinbrohan.fr/)  
+
+Social:
+[<img src='https://quentinbrohan.fr/favicon.svg' alt='website' height='22'>](https://quentinbrohan.fr/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/https://github.com/quentinbrohan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/quentinbrohan//)
+
