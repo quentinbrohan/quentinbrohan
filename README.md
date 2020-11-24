@@ -1,5 +1,5 @@
 ### Hell-O, I'm Quentin !
-#### A passionnate UI Developerfrom France with a graphic designer background
+#### A passionnate UI Developer from France with a graphic designer background
 
 🔭 I’m currently working on [Dylt](https://github.com/quentinbrohan/dylt), an app to discover new music shared between users.
 
