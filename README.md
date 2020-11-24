@@ -1,10 +1,10 @@
 ### Hell-O, I'm Quentin !
-#### A passionnate front-end React developer from France with a graphic designer background
+#### A passionnate UI Developerfrom France with a graphic designer background
 
 🔭 I’m currently working on [Dylt](https://github.com/quentinbrohan/dylt), an app to discover new music shared between users.
 
 📌 Last project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as a React Developer, teaming up with Symfony Devs for back-end.\
-**Stack**: React, Redux, Symfony RESTful API, deployment on AWS EC2.\
+**Stack**: React, Redux, Symfony as REST API, deployment on AWS EC2.\
 [🤘 Case Study here (🇫🇷)](https://quentinbrohan.fr/project/o-vacances/)
 
 🌱 I’m currently learning GraphQL and recently picked up TypeScript, which I am using in my current project.
