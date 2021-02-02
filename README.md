@@ -7,7 +7,7 @@
 **Stack**: React, Redux, RTK-Query, Symfony as REST API, deployment on AWS EC2.\
 [🤘 Complete Case Study coming in March 2021 (🇫🇷)](https://quentinbrohan.fr/project/o-vacances/)
 
-🌱 I’m currently learning TypeScript (which helped me get my first job) and GraphQL, and I am using both in my [*Dylt*](https://github.com/quentinbrohan/dylt) project. In the future, I'm planning to dig more into WebGL stuff in the future and creative websites for personnal growth.
+🌱 I’m currently learning TypeScript (which helped me get my first job) and GraphQL, and I am using both in my [*Dylt*](https://github.com/quentinbrohan/dylt) project. In the future, I'm planning to dig more into WebGL stuff and creative websites for personnal growth.
 
 📫 How to reach me:
 - Contact form: https://quentinbrohan.fr/contact
