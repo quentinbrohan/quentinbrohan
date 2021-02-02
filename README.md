@@ -27,13 +27,13 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='32'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='xd' height='32'>
 
-**Print** 
+**Print**  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeindesign.svg' alt='indesign' height='32'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='photoshop' height='32'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='illustrator' height='32'>
 
 
-**Social**  
+**Social**
 [<img src='https://quentinbrohan.fr/favicon.svg' alt='website' height='32'>](https://quentinbrohan.fr/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/https://github.com/quentinbrohan)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/https://www.linkedin.com/in/quentinbrohan/)
