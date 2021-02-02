@@ -27,7 +27,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='32'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='xd' height='32'>
 
-**Print* * 
+**Print** 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeindesign.svg' alt='indesign' height='32'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='photoshop' height='32'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='illustrator' height='32'>
