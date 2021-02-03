@@ -4,7 +4,7 @@
 🔭 I’m currently working on [Dylt](https://github.com/quentinbrohan/dylt), an app to discover new music shared between users.
 
 📌 Last project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as a React Developer, teaming up with Symfony Devs for back-end.\
-**Stack**: React, Redux, RTK-Query, Symfony as REST API, deployment on AWS EC2.\
+**Stack**: React, Redux, RTK Query, Symfony as REST API, deployment on AWS EC2.\
 [🤘 Complete Case Study coming in March 2021 (🇫🇷)](https://quentinbrohan.fr/project/o-vacances/)
 
 🌱 I’m currently learning TypeScript (which helped me get my first job) and GraphQL, and I am using both in my [*Dylt*](https://github.com/quentinbrohan/dylt) project. In the future, I'm planning to dig more into WebGL stuff and creative websites for personnal growth.
