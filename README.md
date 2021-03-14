@@ -9,9 +9,7 @@ A passionnate UI Developer from France with a graphic designer background.
 
 🔭 My current side-project is [Dylt](https://github.com/quentinbrohan/dylt), an app to discover new music shared between users.
 
-📌 Last project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as a React Developer, teaming up with Symfony Devs for back-end.\
-**Stack**: React, Redux, RTK Query, Symfony as REST API using Doctrine, deployment: dockerized Symfony app on AWS EC2, React app on Vercel.\
-[🤘 Complete Case Study coming in March/April 2021](https://quentinbrohan.fr/project/o-vacances/)
+📌 Last project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as a React Developer, teaming up with Symfony Devs for back-end. **Stack**: React, Redux, RTK Query, Symfony as REST API using Doctrine, deployment: dockerized Symfony app on AWS EC2, React app on Vercel. [🤘 Complete Case Study coming in March/April 2021](https://quentinbrohan.fr/project/o-vacances/)
 
 🌱 I’m currently learning TypeScript (which helped me get my first job) and GraphQL, and I am using both in my [**Dylt**](https://github.com/quentinbrohan/dylt) project.
 
