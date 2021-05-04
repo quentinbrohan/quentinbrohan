@@ -11,7 +11,7 @@ A passionnate UI Developer from France with a graphic designer background.
 
 📌 Last project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as a React Developer, teaming up with Symfony Devs for back-end.\
 💻 Stack: React, Redux, RTK Query, Symfony as REST API using Doctrine. Deployment: React app on Vercel, dockerized Symfony app on AWS EC2.\
-[🤘 Complete Case Study coming in March/April 2021](https://quentinbrohan.fr/project/o-vacances/)
+[🤘 Complete Case Study coming in May 2021](https://quentinbrohan.fr/project/o-vacances/)
 
 🌱 I’m currently learning TypeScript (which helped me get my first job) and GraphQL, and I am using both in my [Dylt](https://github.com/quentinbrohan/dylt) project.
 
