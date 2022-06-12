@@ -24,6 +24,7 @@ I'm posting  _sometimes_ some of my work on Behance and Dribble. If you feel lik
 
 🔧 Currently hiding most of my work as I rebuild/work on new things.
 
-📌 Graduation project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as a React Developer, teaming up with Symfony Devs for back-end.\
+📌 Graduation project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as the lead React Developer, teaming up with Symfony Devs for the back-end part.\
+📓 Process: brief + all technical documents, wireframes/UI mockups, development, and lastly the project got presented live on YouTube (link in the case study).
 💻 Stack: React, Redux, RTK Query, Symfony as REST API using Doctrine. Deployment: React app on Vercel, dockerized Symfony app on AWS EC2.\
-[🤘 Complete Case Study available here](https://v1.quentinbrohan.fr/project/o-vacances/)
+🤘 Complete Case Study available on [my website](https://v1.quentinbrohan.fr/project/o-vacances/) or [Behance](https://www.behance.net/gallery/130270567/OVacances-Web-App).
