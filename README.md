@@ -5,9 +5,9 @@ A passionate UI Developer from France with a graphic designer and printer backgr
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0d0d0d)](https://quentinbrohan.fr)
 [![Contact](https://img.shields.io/badge/-Contact-1d1d1d)](https://quentinbrohan.fr/contact)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentinbrohan/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white
 )](https://www.behance.net/quentinbrohan)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white
 )](https://dribbble.com/quentinbrohan)
 
 <a href="mailto:brohan.quentin@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
