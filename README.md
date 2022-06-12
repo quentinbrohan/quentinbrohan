@@ -13,13 +13,14 @@ A passionate UI Developer from France with a graphic designer and printer backgr
 <a href="mailto:brohan.quentin@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
 
 ⚡ I’m aiming to work with artists, designers, and freelancers. The design I like is minimalist, efficient, calm, and elegant, with a special affection for typography.
-I'm posting  _sometimes_ some of my work on Behance and Dribble (links above). If you feel like we could collaborate, message me through one of my social links or email, and let's see what we can build together!
+I'm posting  _sometimes_ some of my work on Behance and Dribble. If you feel like we could collaborate, message me through one of my social links or email, and let's see what we can build together!
 
 ## More about me:
-- Mostly working with React, Typescript, Ant Design
-- Clean code & Testing 🐱‍👤
-- Keen interested in UI/UX Design, creative coding
+- Mostly working with React, Typescript, React Query, and Ant Design
+- Unit testing frameworks and mocking ninja 🐱‍👤
+- Keen interested in UI/UX Design, and creative coding 🔮
 - Love playing with GraphQL, WebGL
+- My free time resolves a lot about anything art and/or cinema-related, I tend to try creating web/graphic design concepts, trying to work more on my drawing skill as well, and I'm an avid techno music listener!
 
 🔧 Currently hiding most of my work as I rebuild/work on new things.
 
