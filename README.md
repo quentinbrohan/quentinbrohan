@@ -20,9 +20,9 @@ I'm posting  _sometimes_ some of my work on Behance and Dribble. If you feel lik
 - Unit testing frameworks and mocking ninja 🐱‍👤
 - Keen interested in UI/UX Design, and creative coding 🔮
 - Love playing with GraphQL, WebGL
-- My free time resolves a lot about anything art and/or cinema-related, I tend to try creating web/graphic design concepts, trying to work more on my drawing skill as well, and I'm an avid techno music listener!
+- My free time resolves a lot about anything art and/or cinema-related, I tend to push myself to create web/graphic design concepts, trying to work more on my (hand) drawing skill as well, and I'm an avid techno music listener!
 
-🔧 Currently hiding most of my work as I rebuild/work on new things.
+🔧 Currently hiding most of my work as I rebuild/clean/work on new things.
 
 📌 Graduation project: [O'Vacances, plan your vacation with friends](https://github.com/quentinbrohan/o-vacances) as the lead React Developer, teaming up with Symfony Devs for the back-end part.\
 📓 Process: brief + all technical documents, wireframes/UI mockups, development, and lastly the project got presented live on YouTube (link in the case study).
