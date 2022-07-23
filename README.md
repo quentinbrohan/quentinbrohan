@@ -20,7 +20,7 @@ I'm posting  _sometimes_ some of my work on Behance and Dribble. If you feel lik
 - Unit testing frameworks and mocking ninja 🐱‍👤
 - Keen interest in UI/UX Design, and creative coding 🔮
 - Love playing with NextJs, GraphQL, and WebGL
-- My free time resolves a lot about anything art and/or cinema-related, I tend to push myself to create web/graphic design concepts, trying to work more on my (hand) drawing skill as well, and I'm an avid techno music listener!
+- My free time resolves a lot about anything art and/or cinema-related, I tend to push myself to create web/graphic design concepts, trying to work more on my digital drawing skill as well, and I'm an avid techno music listener!
 
 🔧 Currently hiding most of my work as I rebuild/clean/work on new things.
 
