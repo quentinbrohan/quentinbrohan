@@ -23,7 +23,7 @@ I've previously worked in the print industry as a Graphic Designer, a Digital Pr
 ## Techs
 
 - React/Next.js
-- Typescript
+- TypeScript
 - React Query
 - Antd Design
 - GSAP
