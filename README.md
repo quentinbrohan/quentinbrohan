@@ -4,7 +4,11 @@
 
 UI Developer at [Leanspace](https://leanspace.io/).
 
-I've previously worked in the print industry as a Graphic Designer, a Digital Printer as well as an Offset Printer — with a demonstrated history of working in the French press, agency and pharmaceutical packaging industries.
+I love everything that has to do with visual design, web projects as well as typography, identity & branding, and animations. With my design & development experience, I know how to help clients solve real project plans and grow their businesses through design thinking.
+
+The design I like is minimalist, efficient, calm, and elegant, with a special affection for typography.
+
+I've previously worked in the print industry as a Graphic Designer, a Digital Printer as well as an Offset Printer — with a demonstrated history of working in the French press, agency, and pharmaceutical packaging industries.
 
 ## Work
 
@@ -12,9 +16,10 @@ I've previously worked in the print industry as a Graphic Designer, a Digital Pr
 
 - [Hackathon Request App](https://master.d1hk84yeel2h27.amplifyapp.com/)
 
-### Independant
+### Independent
 
 - [Portfolio](https://quentinbrohan.fr/)
+- Dnakramas Portfolio [soon]
 
 ### Education
 
@@ -25,11 +30,11 @@ I've previously worked in the print industry as a Graphic Designer, a Digital Pr
 - React/Next.js
 - TypeScript
 - React Query
-- Antd Design
-- GSAP
-- Prismic
-- AWS Amplify
+- Ant Design
 - Figma
+- AWS Amplify
+- Storyblok
+- GSAP
 
 ## Contact
 
