@@ -19,7 +19,7 @@ I've previously worked in the print industry as a Graphic Designer, a Digital Pr
 ### Independent
 
 - [Portfolio](https://quentinbrohan.fr/)
-- Dnakramas Portfolio [soon]
+- [Dnakramas Portfolio](https://dnakramas.fr/)
 
 ### Education
 
