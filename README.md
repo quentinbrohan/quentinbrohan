@@ -42,6 +42,4 @@ I've previously worked in the print industry as a Graphic Designer, a Digital Pr
 
 - [Mail](mailto:brohan.quentin@gmail.com)
 - [LinkedIn](https://linkedin.com/in/quentinbrohan)
-- [Behance](https://www.behance.net/quentinbrohan)
-- [Dribbble](https://dribbble.com/quentinbrohan)
 
