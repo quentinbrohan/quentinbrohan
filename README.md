@@ -15,7 +15,6 @@ I've previously worked in the print industry as a Graphic Designer, a Digital Pr
 ### [Leanspace](https://leanspace.io/)
 
 - [Hackathon Request App](https://master.d1hk84yeel2h27.amplifyapp.com/)
-- [MPS Lite](https://leanspace.io/mps-lite/)
 
 ### Independent
 
