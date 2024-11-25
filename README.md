@@ -1,14 +1,10 @@
-# Hell-O!
+# Hell-O! I'm Quentin
 
-### Who Am I?
+I'm currently a UI Developer at [Leanspace](https://leanspace.io/).
 
-UI Developer at [Leanspace](https://leanspace.io/).
+I'm exploring opportunities as a Creative Front-End Developer & Web Designer.
 
-I love everything that has to do with visual design, web projects as well as typography, identity & branding, and animations.
-
-The design I like is minimalist, efficient, calm, and elegant, with a special affection for typography.
-
-I've previously worked in the print industry as a Graphic Designer, a Digital Printer as well as an Offset Printer — with a demonstrated history of working in the French press, agency, and pharmaceutical packaging industries. With my design & development experience, I know how to help clients solve real project plans and grow their businesses through design thinking.
+If you believe I can help grow your brand through a resonating, custom-tailored, and result-driven website, I'd love to hear from you!
 
 ## Work
 
@@ -18,24 +14,23 @@ I've previously worked in the print industry as a Graphic Designer, a Digital Pr
 
 ### Independent
 
-- [Portfolio](https://quentinbrohan.fr/) 🇫🇷
+- [Portfolio (2020)](https://quentinbrohan.fr/) 🇫🇷
 - [Dnakramas Portfolio](https://dnakramas.fr/) 🇫🇷
 
 ### Education
 
 - [O'Vacances](https://www.behance.net/gallery/130270567/OVacances-Web-App-UIUX-Design-Development)
 
-## Techs
+## My go-to tech-stack:
 
 - React/Next.js
 - TypeScript
-- React Query
-- Ant Design
-- Figma
-- Storyblok
 - Framer Motion
 - GSAP
-- AWS Amplify
+- Storyblok
+- Figma
+- React Query
+- Ant Design
 
 ## Contact
 
