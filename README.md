@@ -21,7 +21,7 @@ If you believe I can help grow your brand through a resonating, custom-tailored,
 
 - [O'Vacances](https://www.behance.net/gallery/130270567/OVacances-Web-App-UIUX-Design-Development)
 
-## My go-to tech-stack:
+## My go-to tech-stack
 
 - React/Next.js
 - TypeScript
