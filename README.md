@@ -25,7 +25,6 @@ If you believe I can help grow your brand through a resonating, custom-tailored,
 
 - React/Next.js
 - TypeScript
-- Framer Motion
 - GSAP
 - Storyblok
 - Figma
