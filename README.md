@@ -2,7 +2,7 @@
 
 I'm currently a UI Developer at [Leanspace](https://leanspace.io/).
 
-I'm exploring opportunities as a Creative Front-End Developer & Web Designer.
+I'm exploring opportunities as a Creative Front-End Developer & Web Designer,  ideally by joining a creative studio, but also open to freelance work.
 
 If you believe I can help grow your brand through a resonating, custom-tailored, and result-driven website, I'd love to hear from you!
 
@@ -13,8 +13,8 @@ If you believe I can help grow your brand through a resonating, custom-tailored,
 - [Hackathon Request App](https://master.d1hk84yeel2h27.amplifyapp.com/)
 
 ### Independent
-
-- [Portfolio (2020)](https://quentinbrohan.fr/) 🇫🇷
+- [Portfolio v2 (2025)](https://www.quentinbrohan.fr/) 🇫🇷
+- [Portfolio (2020)](https://quentinbrohan-next-quentinbrohans-projects.vercel.app/) 🇫🇷
 - [Dnakramas Portfolio](https://dnakramas.fr/) 🇫🇷
 
 ### Education
