@@ -13,9 +13,10 @@ If you believe I can help grow your brand through a resonating, custom-tailored,
 - [Hackathon Request App](https://master.d1hk84yeel2h27.amplifyapp.com/)
 
 ### Independent
-- [Portfolio v2 (2025)](https://www.quentinbrohan.fr/) 🇫🇷
-- [Portfolio (2020)](https://quentinbrohan-next-quentinbrohans-projects.vercel.app/) 🇫🇷
-- [Dnakramas Portfolio](https://dnakramas.fr/) 🇫🇷
+- [Berserk — Into the Heart of Darkness](https://berserk-heart-of-darkness.vercel.app/)
+- [Portfolio (2025)](https://www.quentinbrohan.fr/)
+- [Portfolio (2020)](https://quentinbrohan-next-quentinbrohans-projects.vercel.app/)
+- [Dnakramas Portfolio](https://dnakramas.fr/)
 
 ### Education
 
