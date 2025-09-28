@@ -11,8 +11,8 @@ Creative Front-End Developer & Designer.
 ### Independent
 - [Berserk — Into the Heart of Darkness](https://berserk-heart-of-darkness.vercel.app/)
 - [Portfolio (2025)](https://quentinbrohan.fr/)
-- [Portfolio (2020)](https://quentinbrohan-next-quentinbrohans-projects.vercel.app/)
 - [Dnakramas Portfolio](https://dnakramas.fr/)
+- [Portfolio (2020)](https://quentinbrohan-next-quentinbrohans-projects.vercel.app/)
 
 ## Tech Stack
 
