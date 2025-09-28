@@ -20,7 +20,7 @@ Creative Front-End Developer & Designer.
 - **Front-End:** React, Next.js, TypeScript  
 - **Animations & Interactivity:** GSAP
 - **3D & WebGL:** Three.js, R3F, GLSL  
-- **CMS / Content:** Storyblok, Sanity CMS  
+- **CMS/Content:** Storyblok, Sanity CMS  
 - **Design & Prototyping:** Figma, Miro
 - **Other Tools:** TanStack Query, Ant Design, TailwindCSS, SASS, React Testing Library, Zustand
 
