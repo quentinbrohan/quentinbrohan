@@ -4,10 +4,6 @@ Creative Front-End Developer & Designer.
 
 ## Work
 
-### [Leanspace](https://leanspace.io/)
-
-- [Hackathon Request App](https://master.d1hk84yeel2h27.amplifyapp.com/)
-
 ### Independent
 - [Berserk — Into the Heart of Darkness](https://berserk-heart-of-darkness.vercel.app/)
 - [Portfolio (2025)](https://quentinbrohan.fr/)
@@ -16,11 +12,10 @@ Creative Front-End Developer & Designer.
 
 ## Tech Stack
 
-
 - **Front-End:** React, Next.js, TypeScript  
 - **Animations & Interactivity:** GSAP
 - **3D & WebGL:** Three.js, R3F, GLSL  
-- **CMS/Content:** Storyblok, Sanity CMS  
+- **CMS/Content:** Sanity CMS  
 - **Design & Prototyping:** Figma, Miro
 - **Other Tools:** TanStack Query, Ant Design, TailwindCSS, SASS, React Testing Library, Zustand
 
